@@ -1,4 +1,7 @@
-### Alpha-Beta Budama Algoritması
+### Programı çalıştırmak için git clone github.com/KLU5200505054/algoritma-analizi-o2-s2.git komutu ile klonladıktan sonra proje dizininde python -m main.py komutunu çalıştırın.
+### Uygulamanın çalışması için python kurulu olmalıdır!
+
+# Alpha-Beta Budama Algoritması
 Alpha-beta budama algoritması, minimax algoritmasının geliştirilmiş bir versiyonudur ve genellikle oyun programlamasında kullanılır. Amacı, ağacın daha az düğümünü ziyaret ederek, performansı artırmaktır.
 
 ## Algoritma
